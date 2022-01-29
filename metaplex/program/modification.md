@@ -31,6 +31,7 @@ After that follow steps here and get fully working isolated market places
 
 https://docs.metaplex.com/storefront/installation
 
+`nft-packs` program (mystery box drops) depends on metaplex, but that can be built later as feature will be required.
 
 ## Good
 
